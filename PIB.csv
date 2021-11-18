@@ -1,0 +1,91 @@
+;Concepto;2020pr;2020pr;2020pr;2020pr;2021pr;2021pr
+;Concepto;I;II;III;IV;I;II
+1;Agricultura, ganadería, caza, silvicultura y pesca;18.586;18.705;19.237;20.146;21.461;22.528
+2;"Cultivos agrícolas transitorios; cultivos agrícolas permanentes; Propagación de plantas (actividades de viveros, excepto viveros forestales); actividades de apoyo a la agricultura y la ganadería, y posteriores a la cosecha, explotación mixta (agrícola y pecuaria) y caza ordinaria y mediante trampas y actividades de servicios conexas";11.578;11.237;11.630;12.209;13.167;13.954
+3;Cultivo permanente de café;1.702;2.319;2.256;2.225;2.395;2.140
+4;Ganadería;4.132;3.810;4.165;4.447;4.646;4.984
+5;Silvicultura y extracción de madera;588;614;590;624;695;652
+6;Pesca y acuicultura;658;732;623;535;662;696
+7;Explotación de minas y canteras;13.036;7.548;10.110;10.368;13.248;14.465
+8;Extracción de carbón de piedra y lignito;2.138;1.312;1.460;1.343;1.711;2.539
+9;Extracción de petróleo crudo y gas natural y actividades de apoyo para la extracción de petróleo y de gas natural;9.791;4.112;5.439;6.286;8.595;8.949
+10;Extracción de minerales metalíferos;1.233;1.554;2.060;2.371;1.756;2.130
+11;Extracción de otras minas y canteras;573;381;438;451;565;466
+12;Actividades de apoyo para otras actividades de explotación de minas y canteras;40;23;28;29;39;44
+13;"Elaboración de productos alimenticios; elaboración de bebidas; elaboración de productos de tabaco";8.155;7.617;8.119;8.561;8.902;9.008
+14;"Procesamiento y conservación de carne y productos cárnicos de bovinos, bufalinos, porcinos y otras carnes n.c.p.; procesamiento y conservación de carne y productos cárnicos de aves de corral y procesamiento y conservación de pescados, crustáceos y moluscos";1.876;1.611;1.877;2.020;2.076;2.156
+15;Elaboración de aceites y grasas de origen vegetal y animal;451;443;439;444;549;646
+16;Elaboración de productos lácteos;939;970;939;978;993;939
+17;"Elaboración de productos de molinería, almidones y productos derivados del almidón; elaboración de productos de panadería; elaboración de macarrones, fideos, alcuzcuz, y productos farináceos similares y elaboración de alimentos preparados para animales";1.398;1.433;1.437;1.471;1.436;1.467
+18;Elaboración de productos de café;178;201;203;220;224;181
+19;Elaboración de azúcar y elaboración de panela;701;708;736;749;674;621
+20;Elaboración de cacao, chocolate y productos de confitería;203;149;184;195;206;181
+21;"Procesamiento y conservación de frutas, legumbres, hortalizas y tubérculos; elaboración de otros productos alimenticios (platos preparados y conservados mediante enlatado o congelado, elaboración de sopas y caldos en estado sólidos, polvo o instantáneas entre otros)";652;654;676;705;709;668
+22;Elaboración de bebidas (incluido el hielo) y elaboración de productos de tabaco;1.931;1.231;1.642;1.811;2.030;1.867
+23;"Fabricación de productos textiles; confección de prendas de vestir; curtido y recurtido de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles ";2.610;1.349;2.412;2.875;3.050;3.068
+24;"Preparación, hilatura, tejeduría y acabado de productos textiles; fabricación de otros productos textiles, Confección de prendas de vestir";2.300;1.212;2.149;2.589;2.698;2.739
+25;"Curtido y recurtido de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles";298;127;264;308;345;320
+26;"Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería; fabricación de papel, cartón y productos de papel y de cartón; actividades de impresión; producción de copias a partir de grabaciones originales";1.600;1.382;1.515;1.601;1.649;1.521
+27;"Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería";248;171;270;284;301;293
+28;Fabricación de papel, cartón y productos de papel y de cartón;969;913;915;1.011;984;882
+29;"Actividades de impresión; producción de copias a partir de grabaciones originales (Copia a partir de un original en CD, DVD, Bluray)";370;302;319;326;349;350
+30;"Coquización, fabricación de productos de la refinación del petróleo y actividad de mezcla de combustibles; fabricación de sustancias y productos químicos; fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico; fabricación de productos de caucho y de plástico; fabricación de otros productos minerales no metálicos";11.286;7.660;10.555;11.682;12.415;11.577
+31;Coquización, fabricación de productos de la refinación del petróleo y actividades de mezcla de combustibles;3.378;1.738;2.625;2.914;3.346;3.353
+32;"Fabricación de sustancias químicas básicas, abonos y compuestos inorgánicos nitrogenados, plásticos y caucho sintético en formas primarias; fabricación de otros productos químicos; fabricación de fibras sintéticas y artificiales; fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico";3.896;3.572;4.020;4.253;4.340;4.241
+33;Fabricación de productos de caucho y de plástico;777;676;790;849;933;930
+34;Fabricación de otros productos minerales no metálicos;3.103;1.756;3.235;3.601;3.625;3.261
+35;"Fabricación de productos metalúrgicos básicos; fabricación de productos elaborados de metal, excepto maquinaria y equipo; fabricación de aparatos y equipo eléctrico; fabricación de productos informáticos, electrónicos y ópticos; fabricación de maquinaria y equipo n.c.p.; fabricación de vehículos automotores, remolques y semirremolques; fabricación de otros tipos de equipo de transporte; instalación, mantenimiento y reparación especializado de maquinaria y equipo";3.840;2.968;4.427;4.970;4.779;4.924
+36;"Fabricación de productos metalúrgicos básicos; fabricación de productos elaborados de metal, excepto maquinaria y equipo";1.862;1.677;2.501;2.712;2.514;2.877
+37;"Fabricación de aparatos y equipo eléctrico; fabricación de productos informáticos, electrónicos y ópticos";552;385;613;671;763;644
+38;"Fabricación de maquinaria y equipo n.c.p.; instalación, mantenimiento y reparación especializado de maquinaria y equipo";906;578;785;913;949;856
+39;"Fabricación de vehículos automotores, remolques y semirremolques; fabricación de otros tipos de equipo de transporte";592;311;527;620;577;555
+40;"Fabricación de muebles, colchones y somieres; otras industrias manufactureras";1.381;977;1.393;1.538;1.666;1.559
+41; Fabricación de muebles, colchones y somieres;532;284;560;601;659;534
+42;Otras industrias manufactureras;819;730;851;911;1.019;1.066
+43;Suministro de electricidad, gas, vapor y aire acondicionado;6.746;5.628;6.049;7.051;6.567;6.483
+44;"Generación de energía eléctrica; transmisión de energía eléctrica y distribución y comercialización de energía eléctrica";5.635;4.633;4.976;5.889;5.462;5.392
+45;"Producción de gas; distribución de combustibles gaseosos por tuberías; suministro de vapor y aire acondicionado";1.126;1.040;1.071;1.106;1.131;1.131
+46;"Distribución de agua; evacuación y tratamiento de aguas residuales, gestión de desechos y actividades de saneamiento ambiental";2.909;2.560;2.657;2.850;3.025;3.034
+47;Captación, tratamiento y distribución de agua;862;799;793;866;875;893
+48;"Evacuación y tratamiento de aguas residuales; recolección, tratamiento y disposición de desechos y actividades de saneamiento ambiental y otros servicios de gestión de desechos";1.648;1.493;1.512;1.627;1.697;1.667
+49;Recuperación de materiales (reciclaje);381;279;353;363;423;475
+50;Construcción de edificaciones residenciales y no residenciales;6.600;5.436;5.912;6.414;6.707;6.749
+51;Construcción de edificaciones residenciales y no residenciales;6.600;5.436;5.912;6.414;6.707;6.749
+52;Construcción de carreteras y vías de ferrocarril, de proyectos de servicio público y de otras obras de ingeniería civil;5.002;2.465;3.589;3.681;4.603;3.202
+53;Construcción de carreteras y vías de ferrocarril, de proyectos de servicio público y de otras obras de ingeniería civil;5.002;2.465;3.589;3.681;4.603;3.202
+54;Actividades especializadas para la construcción de edificaciones y obras de ingeniería civil (Alquiler de maquinaría y equipo de construcción con operadores);3.485;2.637;3.132;3.294;3.396;3.322
+55;Actividades especializadas para la construcción de edificaciones y obras de ingeniería civil (Alquiler de maquinaría y equipo de construcción con operadores);3.485;2.637;3.132;3.294;3.396;3.322
+56;"Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas";25.759;19.876;24.063;26.541;27.884;25.280
+57;"Comercio al por mayor y en comisión o por contrata; comercio al por menor (incluso el comercio al por menor de combustibles); comercio de vehículos automotores y motocicletas, sus partes, piezas y accesorios";24.177;18.851;22.090;24.646;26.416;24.053
+58;Mantenimiento y reparación de vehículos automotores y motocicletas;1.862;1.043;1.631;1.937;1.831;1.368
+59;Transporte y almacenamiento;12.726;7.884;9.371;10.658;11.355;10.949
+60;Transporte terrestre y transporte por tuberías;8.611;5.777;6.803;7.570;7.937;7.462
+61;Transporte acuático;91;70;75;80;90;71
+62;Transporte aéreo;1.272;323;291;552;669;710
+63;Almacenamiento y actividades complementarias al transporte;2.469;1.508;1.786;2.080;2.297;2.354
+64;Actividades de correo y de servicios de mensajería;296;279;345;360;344;345
+65;Alojamiento y servicios de comida;9.332;3.420;5.226;8.358;8.811;9.355
+66;Alojamiento y servicios de comida;9.332;3.420;5.226;8.358;8.811;9.355
+67;Información y comunicaciones;7.566;6.824;7.145;7.348;7.773;7.625
+68;Información y comunicaciones;7.566;6.824;7.145;7.348;7.773;7.625
+69;Actividades financieras y de seguros;11.863;11.829;12.443;12.733;12.817;12.827
+70;Actividades financieras y de seguros;11.863;11.829;12.443;12.733;12.817;12.827
+71;Actividades inmobiliarias;23.872;23.952;24.183;24.375;24.619;24.806
+72;Actividades inmobiliarias;23.872;23.952;24.183;24.375;24.619;24.806
+73;"Actividades profesionales, científicas y técnicas; Actividades de servicios administrativos y de apoyo";18.632;16.185;17.399;18.358;19.261;19.153
+74;Actividades profesionales, científicas y técnicas;8.337;7.658;8.045;8.314;8.640;8.835
+75;Actividades de servicios administrativos y de apoyo;10.249;8.585;9.333;10.052;10.503;10.398
+76;"Administración pública y defensa; planes de seguridad social de afiliación obligatoria";16.594;16.970;17.223;17.346;17.380;17.853
+77;"Administración pública y defensa; planes de seguridad social de afiliación obligatoria";16.594;16.970;17.223;17.346;17.380;17.853
+78;Educación;13.567;13.584;13.505;13.492;13.462;13.500
+79;Educación de mercado;6.626;6.467;5.982;5.993;6.197;6.339
+80;Educación de no mercado;6.935;7.305;7.461;7.379;7.364;7.372
+81;Actividades de atención de la salud humana y de servicios sociales;10.958;9.301;10.722;11.514;12.010;12.319
+82;Actividades de atención de la salud humana y de servicios sociales;10.958;9.301;10.722;11.514;12.010;12.319
+83;Actividades artísticas, de entretenimiento y recreación y otras actividades de servicios;5.335;3.561;5.029;5.271;6.243;7.039
+84;Actividades artísticas, de entretenimiento y recreación y otras actividades de servicios;5.335;3.561;5.029;5.271;6.243;7.039
+85;"Actividades de los hogares individuales en calidad de empleadores; actividades no diferenciadas de los hogares individuales como productores de bienes y servicios para uso propio";1.660;989;1.153;1.468;1.528;1.438
+86;Actividades de los hogares individuales en calidad de empleadores;1.660;989;1.153;1.468;1.528;1.438
+87;Valor agregado bruto;242.288;201.646;226.624;242.913;253.975;253.821
+88;Impuestos menos subvenciones sobre los productos;25.932;19.142;20.140;24.236;25.775;26.689
+89;Producto interno bruto;267.399;221.320;246.742;267.462;278.568;280.918
